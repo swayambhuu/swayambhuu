@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Devops Skills**
 
-- 🌱 I’m currently learning **SQL,Python,Machine Learning**
+- 🌱 I’m currently learning **SQL,Python,GIT**
 
 - 🤝 I’m looking for help with **Mobile App Development**
 
